@@ -1,0 +1,20 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "check_dependency",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin/check_dependency.dart",
+            "args": ["--path", "C:/Users/keven.melo/Desktop/monitor_entregas", "--remove-unused", "true"]
+        },
+        // {
+        //     "name": "check_dependency",
+        //     "request": "launch",
+        //     "type": "dart"
+        // }
+    ]
+}
